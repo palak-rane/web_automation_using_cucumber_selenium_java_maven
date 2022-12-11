@@ -39,8 +39,6 @@ public class BranchOperations {
 	* @description: setUp() method to set up initial state for all test methods and tearDown() method perform cleanup after execution.
 	* @param None
 	* @return None
-	* @author vinod_rane
-	* @version 1.0
 	*/
 	
 	@Before

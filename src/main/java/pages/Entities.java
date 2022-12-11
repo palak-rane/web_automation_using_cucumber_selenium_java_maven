@@ -7,9 +7,9 @@ import org.openqa.selenium.support.PageFactory;
 
 /**
  * @description: Page Object class for Entities page
- * @author vinod_rane
+ * @author palak_rane
  * @version 1.0
- * @since 19/04/2019
+ * @since 10/12/2022
 */
 
 public class Entities {

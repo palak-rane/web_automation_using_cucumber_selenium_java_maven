@@ -11,9 +11,9 @@ import utility.Utility;
 
 /**
  * @description: Page Object class for Login page
- * @author vinod_rane
+ * @author palak_rane
  * @version 1.0
- * @since 19/04/2019
+ * @since 10/12/2022
 */
 
 public class Login {
